@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, user-scalable=no" />
+
+		<title>Not found</title>
+		<link rel="shortcut icon" href="https://molview.org/favicon-32x32.png" />
+		<meta name="author" content="Herman Bergwerf" />
+
+		<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,300,400,700" />
+		<link type="text/css" rel="stylesheet" href="https://molview.org/build/molview-page.min.css" />
+	</head>
+	<body>
+		<div id="header">
+		<img id="logo" src="https://molview.org/img/logo.png" />
+		<a id="return-to-molview" href="https://molview.org/">
+			<img id="mark" src="https://molview.org/img/mark.png" />
+		</a>
+		</div>
+		<div id="content">
+			<h1>Error</h1>
+<h2>404 - Not found</h2>
+<p>The requested URL was not found on this server.</p>		</div>
+			</body>
+</html>
